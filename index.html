@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+  <head>
+    <title>Werkcollege 4 - Oefening 1</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+
+  </head>
+  <body>
+    <h1>Currency converter</h1>
+    <div class="seperator">
+
+      <label>
+        <div class="labelText">
+          Currency from
+        </div>
+        <select id="currencyFrom">
+          <option>Select currency</option>
+        </select>
+      </label>
+
+      <label>
+        <div class="labelText">
+          Value from
+        </div>
+        <span id="currencyFromSymbol">
+          ?
+        </span>
+        <input id="valueFrom" type="number" />
+      </label>
+      
+    </div>
+
+    <div class="seperator">
+
+      <label>
+        <div class="labelText">
+          Currency to
+        </div>
+        <select id="currencyTo">
+          <option>Select currency</option>
+        </select>
+      </label>
+
+      <label>
+        <div class="labelText">
+          Result
+        </div>
+        <span id="currencyToSymbol">
+          ?
+        </span>
+        <span id="result">0</span>
+      </label>
+      
+    </div>
+
+    <section id="textualRepresentationOfResult">
+    </section>
+
+    <script type="module" src="./index.js"></script>
+  </body>
+</html>

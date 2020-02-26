@@ -1,0 +1,268 @@
+[
+	{
+		"symbol": "Rs",
+		"name": "Indian Rupee",
+		"symbol_native": "টকা",
+		"code": "INR",
+		"flag": "🇮🇳"
+	},
+	{
+		"symbol": "B/.",
+		"name": "Panamanian Balboa",
+		"symbol_native": "B/.",
+		"code": "PAB",
+		"flag": "🇵🇦"
+	},
+	{
+		"symbol": "zł",
+		"name": "Polish Zloty",
+		"symbol_native": "zł",
+		"code": "PLN",
+		"flag": "🇵🇱"
+	},
+	{
+		"symbol": "EGP",
+		"name": "Egyptian Pound",
+		"symbol_native": "ج.م.‏",
+		"code": "EGP",
+		"flag": "🇪🇬"
+	},
+	{
+		"symbol": "$U",
+		"name": "Uruguayan Peso",
+		"symbol_native": "$",
+		"code": "UYU",
+		"flag": "🇺🇾"
+	},
+	{
+		"symbol": "R$",
+		"name": "Brazilian Real",
+		"symbol_native": "R$",
+		"code": "BRL",
+		"flag": "🇧🇷"
+	},
+	{
+		"symbol": "€",
+		"name": "Euro",
+		"symbol_native": "€",
+		"code": "EUR",
+		"flag": "🇪🇺"
+	},
+	{
+		"symbol": "Rp",
+		"name": "Indonesian Rupiah",
+		"symbol_native": "Rp",
+		"code": "IDR",
+		"flag": "🇮🇩"
+	},
+	{
+		"symbol": "TL",
+		"name": "Turkish Lira",
+		"symbol_native": "TL",
+		"code": "TRY",
+		"flag": "🇹🇷"
+	},
+	{
+		"symbol": "AED",
+		"name": "United Arab Emirates Dirham",
+		"symbol_native": "د.إ.‏",
+		"code": "AED",
+		"flag": "🇦🇪"
+	},
+	{
+		"symbol": "₩",
+		"name": "South Korean Won",
+		"symbol_native": "₩",
+		"code": "KRW",
+		"flag": "🇰🇷"
+	},
+	{
+		"symbol": "RON",
+		"name": "Romanian Leu",
+		"symbol_native": "RON",
+		"code": "RON",
+		"flag": "🇷🇴"
+	},
+	{
+		"symbol": "S/.",
+		"name": "Peruvian Nuevo Sol",
+		"symbol_native": "S/.",
+		"code": "PEN",
+		"flag": "🇵🇪"
+	},
+	{
+		"symbol": "CN¥",
+		"name": "Chinese Yuan",
+		"symbol_native": "CN¥",
+		"code": "CNY",
+		"flag": "🇨🇳"
+	},
+	{
+		"symbol": "CL$",
+		"name": "Chilean Peso",
+		"symbol_native": "$",
+		"code": "CLP",
+		"flag": "🇨🇱"
+	},
+	{
+		"symbol": "S$",
+		"name": "Singapore Dollar",
+		"symbol_native": "$",
+		"code": "SGD",
+		"flag": "🇸🇬"
+	},
+	{
+		"symbol": "¥",
+		"name": "Japanese Yen",
+		"symbol_native": "￥",
+		"code": "JPY",
+		"flag": "🇯🇵"
+	},
+	{
+		"symbol": "Ikr",
+		"name": "Icelandic Króna",
+		"symbol_native": "kr",
+		"code": "ISK",
+		"flag": "🇮🇸"
+	},
+	{
+		"symbol": "CO$",
+		"name": "Colombian Peso",
+		"symbol_native": "$",
+		"code": "COP",
+		"flag": "🇨🇴"
+	},
+	{
+		"symbol": "RM",
+		"name": "Malaysian Ringgit",
+		"symbol_native": "RM",
+		"code": "MYR",
+		"flag": "🇲🇾"
+	},
+	{
+		"symbol": "KZT",
+		"name": "Kazakhstani Tenge",
+		"symbol_native": "тңг.",
+		"code": "KZT",
+		"flag": "🇰🇿"
+	},
+	{
+		"symbol": "₲",
+		"name": "Paraguayan Guarani",
+		"symbol_native": "₲",
+		"code": "PYG",
+		"flag": "🇵🇾"
+	},
+	{
+		"symbol": "₴",
+		"name": "Ukrainian Hryvnia",
+		"symbol_native": "₴",
+		"code": "UAH",
+		"flag": "🇺🇦"
+	},
+	{
+		"symbol": "SR",
+		"name": "Saudi Riyal",
+		"symbol_native": "ر.س.‏",
+		"code": "SAR",
+		"flag": "🇸🇦"
+	},
+	{
+		"symbol": "฿",
+		"name": "Thai Baht",
+		"symbol_native": "฿",
+		"code": "THB",
+		"flag": "🇹🇭"
+	},
+	{
+		"symbol": "Skr",
+		"name": "Swedish Krona",
+		"symbol_native": "kr",
+		"code": "SEK",
+		"flag": "🇸🇪"
+	},
+	{
+		"symbol": "kn",
+		"name": "Croatian Kuna",
+		"symbol_native": "kn",
+		"code": "HRK",
+		"flag": "🇭🇷"
+	},
+	{
+		"symbol": "BGN",
+		"name": "Bulgarian Lev",
+		"symbol_native": "лв.",
+		"code": "BGN",
+		"flag": "🇧🇬"
+	},
+	{
+		"symbol": "RD$",
+		"name": "Dominican Peso",
+		"symbol_native": "RD$",
+		"code": "DOP",
+		"flag": "🇩🇴"
+	},
+	{
+		"symbol": "MX$",
+		"name": "Mexican Peso",
+		"symbol_native": "$",
+		"code": "MXN",
+		"flag": "🇲🇽"
+	},
+	{
+		"symbol": "₪",
+		"name": "Israeli New Sheqel",
+		"symbol_native": "₪",
+		"code": "ILS",
+		"flag": "🇮🇱"
+	},
+	{
+		"symbol": "PKRs",
+		"name": "Pakistani Rupee",
+		"symbol_native": "₨",
+		"code": "PKR",
+		"flag": "🇵🇰"
+	},
+	{
+		"symbol": "$",
+		"name": "US Dollar",
+		"symbol_native": "$",
+		"code": "USD",
+		"flag": "🇺🇸"
+	},
+	{
+		"symbol": "AR$",
+		"name": "Argentine Peso",
+		"symbol_native": "$",
+		"code": "ARS",
+		"flag": "🇦🇷"
+	},
+	{
+		"symbol": "CA$",
+		"name": "Canadian Dollar",
+		"symbol_native": "$",
+		"code": "CAD",
+		"flag": "🇨🇦"
+	},
+	{
+		"symbol": "R",
+		"name": "South African Rand",
+		"symbol_native": "R",
+		"code": "ZAR",
+		"flag": "🇿🇦"
+	},
+	{
+		"symbol": "₱",
+		"name": "Philippine Peso",
+		"symbol_native": "₱",
+		"code": "PHP",
+		"flag": "🇵🇭"
+	},
+	{
+		"symbol": "Ft",
+		"name": "Hungarian Forint",
+		"symbol_native": "Ft",
+		"code": "HUF",
+		"flag": "🇭🇺"
+	}
+]
